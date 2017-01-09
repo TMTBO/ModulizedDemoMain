@@ -1,0 +1,28 @@
+{
+  "name": "ModulizedDemoDetail_Category",
+  "version": "1.0",
+  "summary": "ModulizedDemoDetail_Category.",
+  "description": "this is ModulizedDemoDetail_Category",
+  "homepage": "https://github.com/TMTBO/ModulizedDemoDetail_Category",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "CasaTaloyum": "casatwy@msn.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/TMTBO/ModulizedDemoDetail_Category.git",
+    "tag": "1.0"
+  },
+  "source_files": "ModulizedDemoDetail_Category/ModulizedDemoDetail_Category/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}

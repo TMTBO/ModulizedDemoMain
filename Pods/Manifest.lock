@@ -1,0 +1,18 @@
+PODS:
+  - CTMediator (0.0.3)
+  - ModulizedDemoDetail (1.0.2)
+  - ModulizedDemoDetail_Category (1.0.1):
+    - CTMediator
+
+DEPENDENCIES:
+  - ModulizedDemoDetail
+  - ModulizedDemoDetail_Category
+
+SPEC CHECKSUMS:
+  CTMediator: c9a1203561e2232cb9a72822659159a02ae3cf20
+  ModulizedDemoDetail: eac3f341e07444c2208433ee7a387a01fbd83fad
+  ModulizedDemoDetail_Category: ed3d81bb6fe987a9c5048764ebc52ef37b7c0b3e
+
+PODFILE CHECKSUM: 4cfe7d1e37ac97650209d6d4b064182638281ffa
+
+COCOAPODS: 1.1.1
